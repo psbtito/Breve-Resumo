@@ -7,7 +7,7 @@
 > Python & PySpark
 > Modelagem de Risco de Crédito
 > Machine Learning
-> Norma 4.966 e IFR9
+> IFRS9, CMN n° 4.966/21 E BCB n° 352/23
 > Power BI & Looker Studio
 
 ## 📝 Experiência e um pouco mais de mim
