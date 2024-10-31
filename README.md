@@ -2,7 +2,7 @@
 
  Olá! Meu nome é Priscila e sou analista de dados. Sou bacharela em Matemática e atualmente estou cursando um MBA em Data Science e Analytics na USP. Estou aqui para compartilhar parte dos meus projetos de estudo na área de dados e mais recentemente, projetos de provisionamento de risco de crédito, que é a minha mais mova área de interesse.
 
-## 🔍Interesses
+## 🔍Meus Interesses
 
 > Python & PySpark
 > Modelagem de Risco de Crédito
